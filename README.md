@@ -1,5 +1,5 @@
 # Onion-Hardware
-Schematic information on Onion Omega2 Docks and Expansions
+Schematic of Onion Omega2 Docks and Expansions
 
 ## Additional Resources
 
